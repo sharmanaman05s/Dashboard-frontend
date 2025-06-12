@@ -8,7 +8,7 @@ import Products from "./pages/Products";
 import Customers from "./pages/Customers";
 import Analytics from "./pages/Analytics";
 import './App.css';
-import { SignedIn, SignedOut, UserButton, RedirectToSignIn } from "@clerk/clerk-react";
+import { SignedIn, SignedOut, RedirectToSignIn } from "@clerk/clerk-react";
 import {
   ChartContainer,
   ChartTooltip,
